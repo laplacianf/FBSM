@@ -1,5 +1,4 @@
 import numpy as np
-import decimal
 from matplotlib import pyplot
 
 t = 500
